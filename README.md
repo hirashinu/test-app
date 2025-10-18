@@ -9,5 +9,5 @@
 
 ## How to use
 
-- Run command on tab 1 `php artisan serve`
-- Run command on tab 2 `npm run dev`
+- Run command on cmd 1 `php artisan serve`
+- Run command on cmd 2 `npm run dev`
