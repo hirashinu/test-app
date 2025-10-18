@@ -1,7 +1,7 @@
 ## Install Instruction
 
 - Clone project.
-- Copy .env.example to .env
+- Copy `.env.example` to `.env`
 - Run command `php artisan key:generate`
 - Run command `composer install`.
 - Run command `npm install`.
